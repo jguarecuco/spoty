@@ -1,0 +1,1 @@
+MONGO_URL='mongodb://jguarecuco:LTR14140802**@localhost/strapi?authMechanism=SCRAM-SHA-1&authSource=admin' meteor
